@@ -23,7 +23,7 @@ void main(int argc, char* argv[]){
   perror("Error getting flags\n");
   }
   struct stat buf;
-  int stat = fstat(fd1,&buf);
+  int stat = lstat(fd1,&buf);
   
     if(stat==-1){
       perror("Error getting stats\n");
