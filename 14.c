@@ -55,3 +55,5 @@ void main(int argc, char* argv[]){
 
 // administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/1.txt
 // Regular file
+
+
