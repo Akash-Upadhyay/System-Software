@@ -1,3 +1,10 @@
+//25.Write a program to create three child processes. The parent should wait for a particular child (use
+//waitpid system call).
+//AKASH UPADHYAY
+//MT2024013
+
+
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>
@@ -35,5 +42,7 @@ printf("Parent process exiting\n");
 }
 return;
 }
+
+
 
 

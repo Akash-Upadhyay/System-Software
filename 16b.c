@@ -40,7 +40,13 @@ int main(int argc, char *argv[])
         else{
         perror("Error Locking File");
         }
+        getchar();
         close(fd);
     }
     return 0;
 }
+
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/sample_file1
+// File locked for writing
+//administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/sample_file1
+// Error Locking File: Resource temporarily unavailable

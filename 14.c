@@ -1,4 +1,11 @@
 
+// AKASH UPADHYAY
+// MT2024013
+// 14 Write a program to find the type of a file.
+// a. Input should be taken from command line.
+// b. program should be able to identify any type of a file.
+
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>
@@ -23,7 +30,7 @@ void main(int argc, char* argv[]){
   perror("Error getting flags\n");
   }
   struct stat buf;
-  int stat = lstat(fd1,&buf);
+  int stat = lstat(filename,&buf);
   
     if(stat==-1){
       perror("Error getting stats\n");
@@ -46,3 +53,5 @@ void main(int argc, char* argv[]){
 
 
 
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/1.txt
+// Regular file

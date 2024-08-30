@@ -1,5 +1,8 @@
+//AKASH UPADHYAY
+//MT2024013
+
 /*
-Question: Write a program to perform mandatory locking. 
+Question: 16 a.Write a program to perform mandatory locking. 
     - Implement read lock 
 */
 
@@ -7,7 +10,8 @@ Question: Write a program to perform mandatory locking.
 #include <unistd.h>
 #include <fcntl.h>     
 #include <sys/types.h> 
-#include <sys/stat.h>  
+#include <sys/stat.h> 
+
 
 int main(int argc, char *argv[])
 {
@@ -17,7 +21,7 @@ int main(int argc, char *argv[])
     int fd;
 
     if (argc != 2){
-        printf("Pass the file name to be locked as the argument!");
+        printf("Pass the file name ");
         return 0;
        } 
     else
@@ -40,7 +44,12 @@ int main(int argc, char *argv[])
         else{
         perror("Error Locking File");
         }
+        getchar();
         close(fd);
     }
     return 0;
 }
+
+
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/sample_file1
+// File locked for reading^C

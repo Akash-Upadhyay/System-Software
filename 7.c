@@ -1,3 +1,10 @@
+/// Question 7: Write a program to copy file1 into file2 ($cp file1 file2).
+//AKASH UPADHYAY
+//MT2024013
+
+
+
+
 #include<unistd.h>
 #include<stdio.h>
 #include<fcntl.h>
@@ -43,3 +50,6 @@ return;
 printf("Successfull");
 return;
 }
+
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/1.txt  ./files/2.txt 
+// Successfull

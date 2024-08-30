@@ -1,3 +1,7 @@
+/// Question 6: Write a program to take input from STDIN and display on STDOUT. Use only read/write system calls
+//AKASH UPADHYAY
+//MT2024013
+
 
 #include <unistd.h>
 #include<stdio.h>
@@ -16,3 +20,9 @@ printf("Successfull");
 }
 return 0;
 }
+
+//administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out
+//Welcome
+//Welcome
+//Successfull
+

@@ -1,3 +1,8 @@
+// Write a program, open a file, call fork, and then write to the file by both the child as well as the
+// parent processes. Check output of the file
+// AKASH UPADHYAY
+// MT2024013
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>

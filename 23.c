@@ -1,3 +1,7 @@
+//23. Write a program to create a Zombie state of the running program.
+//AKASH UPADHYAY
+//MT2024013
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>
@@ -12,4 +16,6 @@ getchar();
 }
 return ;
 }
+
+
 

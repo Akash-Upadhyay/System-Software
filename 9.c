@@ -1,22 +1,9 @@
 
-// struct stat {
-//     dev_t     st_dev;     // Device ID of the file
-//     ino_t     st_ino;     // Inode number
-//     mode_t    st_mode;    // File type and mode
-//     nlink_t   st_nlink;   // Number of hard links
-//     uid_t     st_uid;     // User ID of the file owner
-//     gid_t     st_gid;     // Group ID of the file owner
-//     dev_t     st_rdev;    // Device ID (if special file)
-//     off_t     st_size;    // Total size of the file in bytes
-//     blkcnt_t  st_blocks;  // Number of 512-byte blocks allocated
-//     blksize_t st_blksize; // Block size for filesystem I/O
-//     time_t    st_atime;   // Time of last access
-//     time_t    st_mtime;   // Time of last modification
-//     time_t    st_ctime;   // Time of last status change
-// };
-
 
 //9.Write a program to print all the information about a given file.
+
+//AKASH UPADHYAY
+//MT2024013
 
 
 #include<stdio.h>
@@ -61,5 +48,33 @@ void main(int argc, char* argv[]){
 
 
 
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out 9.c
+// File: 9.c
+//   Inode Number: 9460531
+//   Number of Hard Links: 1
+//   User ID (UID): 1000
+//   Group ID (GID): 1000
+//   Size: 2009 bytes
+//   Block Size: 4096 bytes
+//   Number of Blocks: 8
+//   Time of Last Access: Sat Aug 31 00:06:46 2024
+//   Time of Last Modification: Wed Aug 21 19:17:07 2024
+//   Time of Last Status Change: Wed Aug 21 19:17:07 2024
 
+
+// struct stat {
+//     dev_t     st_dev;     // Device ID of the file
+//     ino_t     st_ino;     // Inode number
+//     mode_t    st_mode;    // File type and mode
+//     nlink_t   st_nlink;   // Number of hard links
+//     uid_t     st_uid;     // User ID of the file owner
+//     gid_t     st_gid;     // Group ID of the file owner
+//     dev_t     st_rdev;    // Device ID (if special file)
+//     off_t     st_size;    // Total size of the file in bytes
+//     blkcnt_t  st_blocks;  // Number of 512-byte blocks allocated
+//     blksize_t st_blksize; // Block size for filesystem I/O
+//     time_t    st_atime;   // Time of last access
+//     time_t    st_mtime;   // Time of last modification
+//     time_t    st_ctime;   // Time of last status change
+// };
 

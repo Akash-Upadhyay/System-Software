@@ -1,3 +1,7 @@
+//24. 24. Write a program to create an orphan process.
+//AKASH UPADHYAY
+//MT2024013
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>

@@ -1,3 +1,7 @@
+// 12. Write a program to find out the opening mode of a file. Use fcntl.
+// AKASH UPADHYAY
+// MT2024013
+
 
 #include<stdio.h>
 #include<unistd.h>
@@ -34,6 +38,10 @@ void main(int argc, char* argv[]){
     return;
 
 }
+
+// administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/sample_file1
+// File opened in read-write mode
+
 
 
 
