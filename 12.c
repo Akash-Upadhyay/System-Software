@@ -1,7 +1,11 @@
-// 12. Write a program to find out the opening mode of a file. Use fcntl.
-// AKASH UPADHYAY
-// MT2024013
-
+/*
+============================================================================
+Name : 12.c
+Author : Akash Upadhyay
+Description : Write a program to find out the opening mode of a file. Use `fcntl`
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>

@@ -1,6 +1,11 @@
 /*
-Question: Write a program to perform mandatory locking. 
-    - Implement write lock 
+============================================================================
+Name : 16_b.c
+Author : Akash Upadhyay
+Description : Write a program to perform mandatory locking. 
+    - Implement read lock 
+Date: 31st Aug, 2024..
+============================================================================
 */
 
 #include<stdio.h>

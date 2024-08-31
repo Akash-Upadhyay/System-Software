@@ -1,6 +1,11 @@
-/// Question 7: Write a program to copy file1 into file2 ($cp file1 file2).
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 7.c
+Author : Akash Upadhyay
+Description : Write a program to copy file1 into file2 ($cp file1 file2).
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 
@@ -53,3 +58,4 @@ return;
 
 // administrator@administrator-Swift-SFG14-71:~/Desktop/ClassWork/System-Software$ ./a.out ./files/1.txt  ./files/2.txt 
 // Successfull
+

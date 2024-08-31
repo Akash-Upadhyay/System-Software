@@ -1,7 +1,11 @@
-//AKASH UPADHYAY
-//MT2024013
-//Create the following types of a files using (i) shell command (ii) system call
-//hard link (link system call)
+/*
+============================================================================
+Name : 1b.c
+Author : Akash Upadhyay
+Description : Create a hard link file using the `link` system call
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include <stdio.h>
 #include <unistd.h>

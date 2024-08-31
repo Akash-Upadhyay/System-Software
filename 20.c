@@ -1,9 +1,12 @@
 
-//20. Find out the priority of your running program. Modify the priority with nice command.
-
-//AKASH UPADHYAY
-//MT2024013
-
+/*
+============================================================================
+Name : 20.c
+Author : Akash Upadhyay
+Description : Find out the priority of your running program. Modify the priority with nice command.
+Date: 26th Aug, 2024.
+============================================================================
+*/
 
 #include <stdio.h>
 #include <sys/resource.h>

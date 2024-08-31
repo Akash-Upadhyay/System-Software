@@ -1,9 +1,13 @@
-
-// AKASH UPADHYAY
-// MT2024013
-// 14 Write a program to find the type of a file.
-// a. Input should be taken from command line.
-// b. program should be able to identify any type of a file.
+/*
+============================================================================
+Name : 14.c
+Author : Akash Upadhyay
+Description : Write a program to find the type of a file. 
+    1. Input should be taken from command line. 
+    2. Program should be able to identify any type of a file.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 #include<stdio.h>

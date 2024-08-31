@@ -1,10 +1,12 @@
 
-
-// 28. Write a program to get maximum and minimum real time priority.
-
-//AKASH UPADHYAY
-//MT2024013
-
+/*
+============================================================================
+Name : 28.c
+Author : Akash Upadhyay
+Description : Write a program to get maximum and minimum real time priority 
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 #include <stdio.h>

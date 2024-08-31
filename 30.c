@@ -1,10 +1,13 @@
 
 
-
-//30. Write a program to run a script at a specific time using a Daemon process.
-
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 30.c
+Author : Akash Upadhyay
+Description : Write a program to run a script at a specific time using a Daemon process
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 

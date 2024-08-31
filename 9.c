@@ -1,10 +1,22 @@
 
-
-//9.Write a program to print all the information about a given file.
-
-//AKASH UPADHYAY
-//MT2024013
-
+/*
+============================================================================
+Name : 9.c
+Author : Akash Upadhyay
+Description : Write a program to print the following information about a given file - 
+    1. Inode 
+    2. Number of hard links 
+    3. UID 
+    4. GID 
+    5. Size 
+    6. Block size 
+    7. Number of blocks 
+    8. Time of last access 
+    9. Time of last modification 
+    10. Time of last change
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>

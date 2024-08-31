@@ -1,10 +1,13 @@
 
+/*
+============================================================================
+Name : 29.c
+Author : Akash Upadhyay
+Description : Write a program to get the scheduling policy and modify the scheduling policy (SCHED_FIFO, SCHED_RR).
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
-
-//29. Write a program to get scheduling policy and modify the scheduling policy (SCHED_FIFO,SCHED_RR).
-
-//AKASH UPADHYAY
-//MT2024013
 
 
 

@@ -1,6 +1,12 @@
-// AKASH UPADHYAY
-// MT2024013
-// 15 Write a program to display the environmental variable of the user (use environ).
+/*
+============================================================================
+Name : 15.c
+Author : Akash Upadhyay
+Description : Write a program to display the environmental variable of the user (use environ).
+Date: 31st Aug, 2024.
+============================================================================
+*/
+
 
 
 

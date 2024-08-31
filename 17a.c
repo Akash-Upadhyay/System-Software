@@ -1,9 +1,13 @@
-// 17. Write a program to simulate online ticket reservation. Implement write lock
-// Write a program to open a file, store a ticket number and exit. Write a separate program, to
-// open the file, implement write lock, read the ticket number, increment the number and print
-// the new ticket number then close the file.
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 17_a.c
+Author : Akash Upadhyay
+Description : Write a program to simulate online ticket reservations. 
+		a .Implement a write lock.  Write a program to open a file, store a ticket number, and exit. 
+		b. Write a separate program, to open the file,  implement write lock, read the ticket number, increment the number, and print the new ticket number then close the file
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 #include <sys/types.h> 

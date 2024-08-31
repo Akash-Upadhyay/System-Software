@@ -1,8 +1,11 @@
-
-//19. Write a program to find out time taken to execute getpid system call. Use time stamp counter.
-//AKASH UPADHYAY
-//MT2024013
-
+/*
+============================================================================
+Name : 19.c
+Author : Akash Upadhyay
+Description : Write a program to find out time taken to execute getpid system call. Use time stamp counter.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include <sys/time.h>  
 #include <sys/types.h> 

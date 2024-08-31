@@ -1,6 +1,11 @@
-// Question 5: Write a program to create five new files with infinite loop. Execute the program in the background and check the file descriptor table at /proc/pid/fd.
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 5.c
+Author : Akash Upadhyay
+Description : Write a program to create five new files with infinite loop. Execute the program in the background and check the file descriptor table at /proc/pid/fd.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<fcntl.h>

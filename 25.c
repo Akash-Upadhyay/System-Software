@@ -1,9 +1,11 @@
-//25.Write a program to create three child processes. The parent should wait for a particular child (use
-//waitpid system call).
-//AKASH UPADHYAY
-//MT2024013
-
-
+/*
+============================================================================
+Name : 25.c
+Author : Akash Upadhyay
+Description : Write a program to create three child processes. The parent should wait for a particular child (use `waitpid` system call).
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>
@@ -42,6 +44,8 @@ printf("Parent process exiting\n");
 }
 return;
 }
+
+
 
 
 

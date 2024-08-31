@@ -1,6 +1,11 @@
-//24. 24. Write a program to create an orphan process.
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 24.c
+Author : Akash Upadhyay
+Description : Write a program to create an orphan process
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>

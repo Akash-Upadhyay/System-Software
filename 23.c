@@ -1,6 +1,12 @@
-//23. Write a program to create a Zombie state of the running program.
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 23.c
+Author : Akash Upadhyay
+Description : Write a program to create a Zombie state of the running program
+Date: 31st Aug, 2024.
+============================================================================
+*/
+
 
 #include<stdio.h>
 #include<unistd.h>

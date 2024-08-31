@@ -1,7 +1,11 @@
-// 4.Write a program to open an existing file with read write mode. Try O_EXCL flag also.
-//AKASH UPADHYAY
-//MT2024013
-
+/*
+============================================================================
+Name : 4.c
+Author : Akash Upadhyay
+Description : Write a program to open an existing file with read write mode. Try O_EXCL flag also.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<fcntl.h>

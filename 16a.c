@@ -1,9 +1,11 @@
-//AKASH UPADHYAY
-//MT2024013
-
 /*
-Question: 16 a.Write a program to perform mandatory locking. 
-    - Implement read lock 
+============================================================================
+Name : 16_a.c
+Author : Akash Upadhyay
+Description : Write a program to perform mandatory locking. 
+    - Implement write lock 
+Date: 31st Aug, 2024.
+============================================================================
 */
 
 #include<stdio.h>

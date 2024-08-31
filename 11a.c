@@ -1,10 +1,12 @@
-// 11. Write a program to open a file, duplicate the file descriptor and append the file with both the
-// descriptors and check whether the file is updated properly or not.
-// a. use dup
-// AKASH UPADHYAY
-// MT2024013
-
-
+/*
+============================================================================
+Name : 11_a.c
+Author : Akash Upadhyay
+Description : Write a program to open a file, duplicate the file descriptor and append the file with both the descriptors and check whether the file is updated properly or not.
+			Use dup
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>

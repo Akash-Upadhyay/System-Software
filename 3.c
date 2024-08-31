@@ -1,6 +1,11 @@
-//Q 3.Write a program to create a file and print the file descriptor value. Use creat ( ) system call
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 3.c
+Author : Akash Upadhyay
+Description : Write a program to create a file and print the file descriptor value. Use creat() system call
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 

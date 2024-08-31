@@ -1,13 +1,14 @@
+/*
+============================================================================
+Name : 27_d.c
+Author : Akash Upadhyay
+Description : Write a program to execute `ls -Rl` by the following system calls 
+    d. `execv` 
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
-// 27. Write a program to execute ls -Rl by the following system calls
-// a. execl
-// b. execlp
-// c. execle.
-// d. execv
-// e. execvp
 
-//AKASH UPADHYAY
-//MT2024013
 
 #include <unistd.h>
 #include <stdio.h>

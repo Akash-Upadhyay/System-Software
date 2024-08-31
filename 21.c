@@ -1,6 +1,11 @@
-//21.Write a program, call fork and print the parent and child process id.
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 21.c
+Author : Akash Upadhyay
+Description : Write a program, call fork and print the parent and child process id.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 #include<stdio.h>

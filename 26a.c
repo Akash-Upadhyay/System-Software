@@ -1,7 +1,13 @@
-// 26. Write a program to execute an executable program.
-// a. use some executable program
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 26a.c
+Author : Akash Upadhyay
+Description : Write a program to execute an executable program. 
+    1. Use some executable program 
+    2. Pass some input to an executable program. (for example execute an executable of `$./a.out name`)
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 

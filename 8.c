@@ -1,7 +1,11 @@
-//8. Write a program to open a file in read only mode, read line by line and display each line as it is read.
-//Close the file when end of file is reached
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 8.c
+Author : Akash Upadhyay
+Description : Write a program to open a file in read only mode, read line by line and display each line as it is read. Close the file when end of file is reached.
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 #include<unistd.h>

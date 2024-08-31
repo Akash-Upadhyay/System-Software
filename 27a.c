@@ -1,12 +1,12 @@
-// 27. Write a program to execute ls -Rl by the following system calls
-// a. execl
-// b. execlp
-// c. execled.
-// d. execv
-// e. execvp
-
-//AKASH UPADHYAY
-//MT2024013
+/*
+============================================================================
+Name : 27_a.c
+Author : Akash Upadhyay
+Description : Write a program to execute `ls -Rl` by the following system calls 
+    a. `execl` 
+Date: 31st Aug, 2024.
+============================================================================
+*/
 
 
 
